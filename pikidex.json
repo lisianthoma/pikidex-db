@@ -3320,8 +3320,8 @@
       "icon": "sentiment_very_dissatisfied",
       "name": "Special — Halloween Treat",
       "isSeasonal": true,
-      "seasonStart": "2025-10-03",
-      "seasonEnd": "2025-11-06",
+      "seasonStart": "2026-10-01",
+      "seasonEnd": "2026-11-06",
       "availableFrom": "2023-10-06",
       "color": "purple",
       "pikmins": [
@@ -3359,8 +3359,8 @@
       "icon": "sentiment_very_dissatisfied",
       "name": "Special — Halloween Light",
       "isSeasonal": true,
-      "seasonStart": "2025-10-03",
-      "seasonEnd": "2025-11-06",
+      "seasonStart": "2026-10-01",
+      "seasonEnd": "2026-11-06",
       "color": "yellow",
       "pikmins": [
         {
